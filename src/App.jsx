@@ -12,7 +12,6 @@ function App() {
     <>
       <Navbar />
       <Cart cart={cart} />
-      {/* Acá podés seguir con el resto de tu UI */}
     </>
   )
 }
