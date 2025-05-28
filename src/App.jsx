@@ -6,7 +6,7 @@ import Productos from './pages/Productos.jsx';
 import Cart from './pages/Cart.jsx';
 import Contacto from './pages/Contacto.jsx';
 import Home from './pages/Home.jsx';
-
+import Footer from './components/Footer.jsx'
 
 function App() {
 
@@ -23,6 +23,7 @@ function App() {
         <Route path="/productos" element={<Productos />} />
         <Route path="/contacto" element={<Contacto />} />
         </Routes>
+        <Footer/>
       </Router>
     </>
   )
