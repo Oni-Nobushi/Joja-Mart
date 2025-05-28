@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer-content">
 
         <div className="footer-box">
-            <h3 className="title-logo">Natural <span>Market</span></h3>
+            <h3 className="title-logo">Joja <span>Market</span></h3>
 
             <p>Siguenos en nuestras redes!!</p>
             <div className="social">
